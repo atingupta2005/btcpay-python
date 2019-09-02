@@ -19,7 +19,7 @@ To connect your website with your BTCPay server, you must first pair your applic
 ```
 Label: <any string that will help you remember what this pairing is used for>
 Public key: leave blank
-Facade: 'merchant'
+#Facade: 'merchant' (This option no longer exist and has been removed by the developer)
 ```
 3. Click save and then copy the 7 digit pairing code from the success page
 
